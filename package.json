@@ -1,9 +1,10 @@
 {
-  "name": "to-do-list-merokhel",
+  "name": "todo-list-manager-merokhel",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 // Initialize an empty array to store the to-do list items
 let todoList = [];
